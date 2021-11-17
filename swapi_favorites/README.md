@@ -15,8 +15,8 @@ The app:
 ## Running the Server
 
 1. Install the requirements with the command `pip install -r requirements.txt`
-2. Run the migrations with the command `python manage.py migrate`
-2. Run the server with the command `python manage.py runserver`
+2. Run the migrations with the command `python3 manage.py migrate`
+2. Run the server with the command `python3 manage.py runserver`
 
 The API will now be available http://localhost:8000/api
 
